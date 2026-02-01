@@ -12,12 +12,12 @@
 
 Com isso responder algumas perguntas como:
 
-- Qual o nível de experiência mais comum na base de dados?
-- Qual é o tipo de contrato mais frequente?
-- Qual o cargo mais frequente na amostra?
-- De qual país são a maioria dos profissionais da base?
-- Qual é o país onde mais empresas da amostra estão sediadas?
-- Qual o regime de trabalho mais comum?
-- Qual é o tamanho mais comum das empresas na amostra?
+- Qual o nível de experiência mais comum na base de dados? (Senior)
+- Qual é o tipo de contrato mais frequente? (Full-time)
+- Qual o cargo mais frequente na amostra? ()
+- De qual país são a maioria dos profissionais da base? ()
+- Qual é o país onde mais empresas da amostra estão sediadas? ()
+- Qual o regime de trabalho mais comum? (Presencial)
+- Qual é o tamanho mais comum das empresas na amostra? (Médio)
 
 Entre outras análises mais profundas, facilitando a visualização de padrões e tendências no mercado de trabalho em ciência de dados.
