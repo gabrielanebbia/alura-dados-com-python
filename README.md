@@ -91,3 +91,6 @@ Nesta aula, foram trabalhados os seguintes tópicos:
   - Executar o Dashboard localmente: 
      - streamlit run app.py
   - ou realizar o deploy do Dashboard no Streamlit Cloud: https://streamlit.io/cloud
+
+Resultado final do Dashboard:
+![Dashboard Streamlit](aula-4/dashboard.png)
