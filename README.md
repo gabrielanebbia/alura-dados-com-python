@@ -70,3 +70,24 @@ Nesta aula, foram trabalhados os seguintes tópicos:
   - Mapa coroplético da média salarial de Data Scientists por país
   ![Mapa Coroplético](aula-3/graficos/mapa-coropletico-media-salarial-por-pais.png)
 - Implementado a possibilidade de salvamento do DataFrame limpo em arquivo csv
+
+---
+
+### Aula 4
+
+> Objetivo: Criar Interface do Dashboard com Streamlit
+
+- Criar o ambiente virtual:
+  - python3 -m venv .venv
+- Ativar o ambiente virtual em MAC/LINUX:
+   - source .venv/bin/activate
+- Criar um arquivo chamado requirements.txt e adicionar os pacotes necessários
+    - pandas==2.2.3
+    - streamlit==1.44.1
+    - plotly==5.24.1
+- Instalar as bibliotecas necessárias
+    - pip install -r requirements.txt
+- Criar a Interface do Dashboard com Streamlit
+  - Executar o Dashboard localmente: 
+     - streamlit run app.py
+  - ou realizar o deploy do Dashboard no Streamlit Cloud: https://streamlit.io/cloud
